@@ -4,7 +4,9 @@ StudentWell AI is an educational machine-learning decision-support prototype tha
 
 ## 🚀 Live Demo
 
-Coming soon.
+[**Try StudentWell AI →**](https://studentwell-ai.streamlit.app/)
+
+An interactive Streamlit application for exploring student wellness risk prediction, wellness profiles, and machine-learning insights.
 
 ## 📌 Project Overview
 
